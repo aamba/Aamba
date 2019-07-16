@@ -10,4 +10,4 @@ An Object Detection Android App for visually challenged people.
 
 Coming soon. :)
 You can help with it.
-
+Click here  [![Gitter](https://badges.gitter.im/The-Amba-Project/community.svg)](https://gitter.im/The-Amba-Project/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
