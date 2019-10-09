@@ -5,8 +5,24 @@
 # The Aamba Project
 
 An Object Detection Android App for visually challenged people.
+The app uses Tensorflow lite as backend. The machine learning model used is 
+is MobileNet SSD trained on the famous COCO dataset. You do not have to do anything to download these pretrained models 
+, the gradle script handles it for you. 
 
 ---
+
+# How to build it yourself
+
+* Clone this repository to your local device.
+* Make sure you have latest Android Studio.
+* Open Android Studio, and from the Welcome screen, select Open an existing Android Studio project. Select this cloned folder.
+* Let the Android studio download it's gradle if it is your first time running the app in Studio.
+* (if error occurs then rebuild using build>rebuild)
+* Make sure your android device is connected.
+
+# Model used
+
+http://storage.googleapis.com/download.tensorflow.org/models/tflite/coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip
 
 # Docs
 
