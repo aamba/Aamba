@@ -4,8 +4,6 @@
 
 An Android App for visually challenged people. The apps guide people to walk with voice feedback or vibration feedback. 
 
----
-
 ## Motivation 
 
 According to World Health Organization, Globally the number of people of all ages visually impaired is estimated to be 285 million, of whom 39 million are blind. People 50 years and older are 82% of all blind. 
