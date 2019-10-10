@@ -2,7 +2,7 @@
  
 # The Aamba Project
 
-An Android App for visually challenged people. The apps guide people to walk with voice feedback or vibration feedback. 
+An Android App for visually challenged people. The app guides people to walk with voice feedback or vibration feedback. 
 
 ## Motivation 
 
