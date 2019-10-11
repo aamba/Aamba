@@ -31,6 +31,10 @@ task list:
 - [ ] Add haptic feedback mode(needs brainstorming as to how it cn be useful- do we need external device or smartphone's vibration motor?)
 - [ ] Integrating other features in this module
 
+## Download the app for your android device
+
+https://github.com/aamba/Aamba/tree/master/Data/ReadyToUse-APK
+
 ## How to build it yourself
 
 * Clone this repository to your local device.
